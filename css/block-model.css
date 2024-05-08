@@ -25,13 +25,18 @@ button: {
     cursor: pointer;
 }
 
-.images-styles {
+.img {
     display: block;
 }
 
 .page-header {
-    border-bottom: 1px; 
-    solid: #e7e9fc;
+    border-bottom: 1px solid #e7e9fc; 
+}
+
+.header-styles {
+    display: flex;
+    container: default;
+    width: 1158px;
 }
 
 .section-paddings {
@@ -93,6 +98,10 @@ padding: 0 15px;
 
 .main-title {
     padding-bottom: 20px;
+}
+
+.main-text {
+    max-width: 496px;
 }
 
 .hero {
@@ -173,7 +182,7 @@ padding: 0 15px;
 }
 
 .portfolio-styles {
-    margin-bottom: 72px;
+    margin-bottom: 8px
 }
 
 .portfolio-list {
