@@ -124,6 +124,10 @@ padding: 0 15px;
     padding-bottom: 120px;
 }
 
+.container-portfolio {
+    margin-bottom: 8px;
+}
+
 .portfolio-styles {
     margin-bottom: 8px
 }
@@ -443,8 +447,8 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-display: inline-block;
     margin-bottom: 16px;
+    display: inline-block;
 }
 
 .footer-logo-span {
